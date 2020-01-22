@@ -19,7 +19,12 @@
 - **Favorite** _add to favorite button_.
 - **Notification** _for new episodes_.
 
-------------
+---
+
 ## DOWNLOADS 📢
 
-### [WINDOWS](https://github.com/mostafaabobakr7/mymovies-desktop/releases/download/untagged-306c1cb24a167bd01cca/MyMovies-0.1.0.exe)
+- ### [WINDOWS](https://github.com/mostafaabobakr7/mymovies-desktop/releases/download/untagged-306c1cb24a167bd01cca/MyMovies-0.1.0.exe)
+
+-----
+## License
+MIT © Mostafa Abobakr [Linkedin](https://www.linkedin.com/in/mostafaabobakr) - [Twitter](https://twitter.com/MustafaAbobakr)
