@@ -23,7 +23,7 @@
 
 ## DOWNLOADS 📢
 
-- ### [WINDOWS](https://github.com/mostafaabobakr7/mymovies-desktop/releases/download/untagged-306c1cb24a167bd01cca/MyMovies-0.1.0.exe)
+- ### [WINDOWS](https://github.com/mostafaabobakr7/mymovies-desktop/releases)
 
 -----
 ## License
