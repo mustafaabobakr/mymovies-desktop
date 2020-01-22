@@ -23,7 +23,7 @@
 
 ## DOWNLOADS 📢
 
-- ### [WINDOWS](https://github.com/mostafaabobakr7/mymovies-desktop/releases)
+- ### [WINDOWS](https://github.com/mostafaabobakr7/mymovies-desktop/releases/latest)
 
 -----
 ## License
